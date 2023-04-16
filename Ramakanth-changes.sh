@@ -1,3 +1,3 @@
-mkdir ramakanth-folder
+mkdir afternoon-folder
 touch ramakanth-file
 ls
